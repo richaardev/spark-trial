@@ -57,7 +57,7 @@ pnpm build:watch
 **Run the generated build:**
 
 ```bash
-node dist/index.js
+pnpm run start
 ```
 
 **Type-check without compiling:**
